@@ -38,3 +38,6 @@
 **App Ideas Collection** | --- | https://github.com/florinpop17/app-ideas
 **Roadmap to becoming a web developer** | --- | https://github.com/kamranahmedse/developer-roadmap
 **Public APIs** | --- | https://github.com/public-apis/public-apis
+
+Descobridor/testador de APIs GraphQL
+https://cloud.hasura.io/public/graphiql?endpoint=https%3A%2F%2Fkyoywntqsmqhwsxkrktm.supabase.co%2Fgraphql%2Fv1
