@@ -43,7 +43,8 @@ config - https://www.notion.so/Detox-Setup-359cdc2888ad4481b4448f737bef637b
 
 https://medium.com/popcodemobile/criando-formul%C3%A1rios-em-react-native-utilizando-react-hook-form-e-yup-55ee36563063  <br />
 https://react-hook-form.com/  <br />
-https://github.com/jquense/yup
+https://github.com/jquense/yup  <br />
+https://www.npmjs.com/package/zod
 
 #### API E REQUISIÇÕES
 
@@ -104,3 +105,7 @@ https://www.youtube.com/watch?v=bHWoW_aNmnY  <br />
 https://www.npmjs.com/package/react-native-skeleton-placeholder  <br />
 
 https://www.npmjs.com/package/react-native-skeleton-content#examples
+
+Yarn Workspaces
+
+https://classic.yarnpkg.com/lang/en/docs/workspaces/
