@@ -21,6 +21,8 @@
 **Khan Academy** |Plataforma de Aprendizado, com cursos diversos, e com cursos muito bons na area de Tecnologia| https://pt.khanacademy.org/
 **Gitpod** | Plataforma que te permite visualizar, editar e rodar qualquer projeto do GitHub, ele cria um ambiente de desenvolvimento | https://gitpod.io/
 **Openstreetmap** | Mapas | https://www.openstreetmap.org/#map=5/-8.755/-47.637
+**mjml** | Criador de Templates de Email Marketing Open Source | https://mjml.io/
+
 
 # APIs interessantes :link:
 
